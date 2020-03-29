@@ -1,0 +1,4 @@
+include coolspace/schema.sql
+graft coolspace/templates
+graft tests
+global-exclude *.pyc
